@@ -1,3 +1,3 @@
-# sathishk.github.io
+# rmhari.github.io
 Profile Repo
-Test 2
+Profile details of Haripriya Ravichandran
