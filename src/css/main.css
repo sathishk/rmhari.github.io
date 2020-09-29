@@ -1,12 +1,4 @@
-/*
-  You can use import statements to include partials:
- */
-@import 'imports/reset.css';
-
-/*
-  Or add your statements here:
- */
- .cv-header{
+.cv-header{
   background-color: #F7F8F9;
 }
 .icon{
@@ -18,19 +10,19 @@
 
 h1{
   &:before{
-    content: " "
+    content: "{"
   }
   &:after{
-    content: " "
+    content: "}"
   }
 }
 
 h2{
   &:before{
-    content: " "
+    content: "<"
   }
   &:after{
-    content: " "
+    content: "/>"
   }
 }
 
